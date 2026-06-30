@@ -50,6 +50,9 @@ Hello I am Lana
 * [[Systemic Change Reflection]]
 * [[Character, Leadership & Global Mindset]]
 
+**NO PHASE: LiA Notes**
+- [[6.29 Day 1]]
+
 ---
 
 > *Next Step* ── [[Submit Your Reflection]]
