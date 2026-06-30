@@ -11,10 +11,14 @@
             "id": "2849d327b7f4e08a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LiA Kunshan/LiA Reflection/Directory.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Directory"
             }
           }
         ]
@@ -177,5 +181,8 @@
     }
   },
   "active": "2849d327b7f4e08a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "LiA Kunshan/LiA Reflection/Laidlaw Leadership in Action Reflective Journal/Week 1.md",
+    "LiA Kunshan/LiA Reflection/Directory.md"
+  ]
 }
