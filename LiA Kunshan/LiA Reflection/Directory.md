@@ -52,6 +52,8 @@ Hello I am Lana
 
 **NO PHASE: LiA Notes**
 - [[6.29 Day 1]]
+- [[7.2 Laidlaw 辐射健康项目进程与计划汇总]]
+- 
 
 ---
 
