@@ -1,3 +1,4 @@
+Hello I am Lana
 # ✦ Laidlaw Leadership in Action Workspace
 *Reflective Journal*
 
@@ -48,6 +49,11 @@
 * [[SMART Goal Evaluation]]
 * [[Systemic Change Reflection]]
 * [[Character, Leadership & Global Mindset]]
+
+**NO PHASE: LiA Notes**
+- [[6.29 Day 1]]
+- [[7.2 Laidlaw 辐射健康项目进程与计划汇总]]
+- 
 
 ---
 
